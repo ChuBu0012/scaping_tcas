@@ -1,0 +1,5246 @@
+[
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/21"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะอักษรศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/22"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/23"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะรัฐศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/24"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/25"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะพาณิชยศาสตร์และการบัญชี",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/26"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/27"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะนิเทศศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/28"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/29"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/30"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/31"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/32"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/33"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/34"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/35"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "คณะสหเวชศาสตร์",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/37"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "คณะจิตวิทยา",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/38"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "คณะวิทยาศาสตร์การกีฬา",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/39"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "สำนักวิชาทรัพยากรการเกษตร",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/40"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "สถาบันนวัตกรรมบูรณาการแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+        "uni_id": 1,
+        "faculty_path": "https://course.mytcas.com/universities/001/faculties/56"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะเกษตร",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะประมง",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวนศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะสังคมศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะอุตสาหกรรมเกษตร",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะมนุษยศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/12"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะเทคนิคการสัตวแพทย์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/13"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/14"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะสิ่งแวดล้อม",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/15"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "วิทยาลัยบูรณาการศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/16"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "วิทยาลัยการชลประทาน",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/17"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/34"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/36"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "คณะเกษตร กำแพงแสน",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/19"
+    },
+    {
+        "fac_id": 21,
+        "faculty_name": "คณะวิศวกรรมศาสตร์ กำแพงแสน",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/20"
+    },
+    {
+        "fac_id": 22,
+        "faculty_name": "คณะศึกษาศาสตร์และพัฒนศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/21"
+    },
+    {
+        "fac_id": 23,
+        "faculty_name": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/22"
+    },
+    {
+        "fac_id": 24,
+        "faculty_name": "คณะวิทยาศาสตร์การกีฬาและสุขภาพ",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/23"
+    },
+    {
+        "fac_id": 25,
+        "faculty_name": "คณะอุตสาหกรรมบริการ",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/33"
+    },
+    {
+        "fac_id": 26,
+        "faculty_name": "คณะเศรษฐศาสตร์ ศรีราชา",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/24"
+    },
+    {
+        "fac_id": 27,
+        "faculty_name": "คณะพาณิชยนาวีนานาชาติ",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/25"
+    },
+    {
+        "fac_id": 28,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/26"
+    },
+    {
+        "fac_id": 29,
+        "faculty_name": "คณะวิทยาศาสตร์ ศรีราชา",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/27"
+    },
+    {
+        "fac_id": 30,
+        "faculty_name": "คณะวิศวกรรมศาสตร์ ศรีราชา",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/28"
+    },
+    {
+        "fac_id": 31,
+        "faculty_name": "คณะทรัพยากรธรรมชาติและอุตสาหกรรมเกษตร",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/29"
+    },
+    {
+        "fac_id": 32,
+        "faculty_name": "คณะวิทยาศาสตร์และวิศวกรรมศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/30"
+    },
+    {
+        "fac_id": 33,
+        "faculty_name": "คณะศิลปศาสตร์และวิทยาการจัดการ",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/31"
+    },
+    {
+        "fac_id": 34,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/32"
+    },
+    {
+        "fac_id": 35,
+        "faculty_name": "คณะสหวิทยาการจัดการและเทคโนโลยี",
+        "uni_id": 2,
+        "faculty_path": "https://course.mytcas.com/universities/002/faculties/35"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะเทคโนโลยีการเกษตร",
+        "uni_id": 3,
+        "faculty_path": "https://course.mytcas.com/universities/028/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะบริหารศาสตร์",
+        "uni_id": 3,
+        "faculty_path": "https://course.mytcas.com/universities/028/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยีสุขภาพ",
+        "uni_id": 3,
+        "faculty_path": "https://course.mytcas.com/universities/028/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 3,
+        "faculty_path": "https://course.mytcas.com/universities/028/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 3,
+        "faculty_path": "https://course.mytcas.com/universities/028/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศึกษาศาสตร์และนวัตกรรมการศึกษา",
+        "uni_id": 3,
+        "faculty_path": "https://course.mytcas.com/universities/028/faculties/06"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/02"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะเกษตรศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/03"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/04"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/05"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/06"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/07"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/08"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะเทคนิคการแพทย์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/09"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/11"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/13"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/15"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะเทคโนโลยี",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/16"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/18"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/20"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะบริหารธุรกิจและการบัญชี",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/21"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/22"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/27"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "วิทยาลัยการปกครองท้องถิ่น",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/28"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/29"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/32"
+    },
+    {
+        "fac_id": 21,
+        "faculty_name": "วิทยาลัยการคอมพิวเตอร์",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/38"
+    },
+    {
+        "fac_id": 22,
+        "faculty_name": "คณะสหวิทยาการ",
+        "uni_id": 4,
+        "faculty_path": "https://course.mytcas.com/universities/003/faculties/45"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะมนุษยศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิจิตรศิลป์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะสังคมศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะเกษตรศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะเทคนิคการแพทย์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/12"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะอุตสาหกรรมเกษตร",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/13"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/14"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/15"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/16"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/17"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "คณะการสื่อสารมวลชน",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/18"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "คณะรัฐศาสตร์และรัฐประศาสนศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/19"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/20"
+    },
+    {
+        "fac_id": 21,
+        "faculty_name": "วิทยาลัยศิลปะสื่อและเทคโนโลยี",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/21"
+    },
+    {
+        "fac_id": 22,
+        "faculty_name": "วิทยาลัยนานาชาตินวัตกรรมดิจิทัล",
+        "uni_id": 5,
+        "faculty_path": "https://course.mytcas.com/universities/004/faculties/24"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 6,
+        "faculty_path": "https://course.mytcas.com/universities/014/faculties/07"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะครุศาสตร์อุตสาหกรรมและเทคโนโลยี",
+        "uni_id": 6,
+        "faculty_path": "https://course.mytcas.com/universities/014/faculties/08"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 6,
+        "faculty_path": "https://course.mytcas.com/universities/014/faculties/09"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะเทคโนโลยีสารสนเทศ",
+        "uni_id": 6,
+        "faculty_path": "https://course.mytcas.com/universities/014/faculties/13"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "สถาบันวิทยาการหุ่นยนต์ภาคสนาม",
+        "uni_id": 6,
+        "faculty_path": "https://course.mytcas.com/universities/014/faculties/34"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "วิทยาลัยสหวิทยาการ",
+        "uni_id": 6,
+        "faculty_path": "https://course.mytcas.com/universities/014/faculties/36"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+        "uni_id": 6,
+        "faculty_path": "https://course.mytcas.com/universities/014/faculties/12"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะครุศาสตร์อุตสาหกรรม",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "วิทยาลัยเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาศาสตร์ประยุกต์",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/07"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "บัณฑิตวิทยาลัยวิศวกรรมศาสตร์นานาชาติสิรินธร ไทย-เยอรมัน",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/09"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะสถาปัตยกรรมและการออกแบบ",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/11"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/15"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะพัฒนาธุรกิจและอุตสาหกรรม",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/16"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะอุตสาหกรรมเกษตรดิจิทัล",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/05"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะเทคโนโลยีและการจัดการอุตสาหกรรม",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/06"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะบริหารธุรกิจและอุตสาหกรรมบริการ",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/17"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/12"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะวิทยาศาสตร์พลังงานและสิ่งแวดล้อม",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/13"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 7,
+        "faculty_path": "https://course.mytcas.com/universities/015/faculties/14"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "สำนักวิชาศาสตร์และศิลป์ดิจิทัล",
+        "uni_id": 8,
+        "faculty_path": "https://course.mytcas.com/universities/017/faculties/00"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "สำนักวิชาวิทยาศาสตร์",
+        "uni_id": 8,
+        "faculty_path": "https://course.mytcas.com/universities/017/faculties/01"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "สำนักวิชาเทคโนโลยีสังคม",
+        "uni_id": 8,
+        "faculty_path": "https://course.mytcas.com/universities/017/faculties/02"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "สำนักวิชาเทคโนโลยีการเกษตร",
+        "uni_id": 8,
+        "faculty_path": "https://course.mytcas.com/universities/017/faculties/03"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "สำนักวิชาแพทยศาสตร์",
+        "uni_id": 8,
+        "faculty_path": "https://course.mytcas.com/universities/017/faculties/06"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "สำนักวิชาวิศวกรรมศาสตร์",
+        "uni_id": 8,
+        "faculty_path": "https://course.mytcas.com/universities/017/faculties/07"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "สำนักวิชาพยาบาลศาสตร์",
+        "uni_id": 8,
+        "faculty_path": "https://course.mytcas.com/universities/017/faculties/08"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "สำนักวิชาทันตแพทยศาสตร์",
+        "uni_id": 8,
+        "faculty_path": "https://course.mytcas.com/universities/017/faculties/09"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "สำนักวิชาสาธารณสุขศาสตร์",
+        "uni_id": 8,
+        "faculty_path": "https://course.mytcas.com/universities/017/faculties/10"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/03"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/04"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะเศรษฐศาสตร์และบริหารธุรกิจ",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/07"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/08"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "วิทยาลัยการจัดการเพื่อการพัฒนา",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/11"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/14"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะวิทยาศาสตร์และนวัตกรรมดิจิทัล",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/02"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะวิทยาการสุขภาพและการกีฬา",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/05"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะเทคโนโลยีและการพัฒนาชุมชน",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/06"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/09"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/10"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะอุตสาหกรรมเกษตรและชีวภาพ",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/12"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะสหวิทยาการและการประกอบการ",
+        "uni_id": 9,
+        "faculty_path": "https://course.mytcas.com/universities/022/faculties/13"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะพาณิชยศาสตร์และการบัญชี",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะรัฐศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะสังคมสงเคราะห์ศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะวารสารศาสตร์และสื่อสารมวลชน",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "วิทยาลัยนวัตกรรม",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/23"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "วิทยาลัยสหวิทยาการ",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/24"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "วิทยาลัยนานาชาติปรีดีพนมยงค์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/27"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะสังคมวิทยาและมานุษยวิทยา",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/08"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/09"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/10"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/11"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะสหเวชศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/12"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/13"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/14"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/15"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์และการผังเมือง",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/16"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/17"
+    },
+    {
+        "fac_id": 21,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/18"
+    },
+    {
+        "fac_id": 22,
+        "faculty_name": "คณะวิทยาการเรียนรู้และศึกษาศาสตร์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/19"
+    },
+    {
+        "fac_id": 23,
+        "faculty_name": "สถาบันเทคโนโลยีนานาชาติสิรินธร",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/22"
+    },
+    {
+        "fac_id": 24,
+        "faculty_name": "วิทยาลัยโลกคดีศึกษา",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/28"
+    },
+    {
+        "fac_id": 25,
+        "faculty_name": "วิทยาลัยแพทยศาสตร์นานาชาติจุฬาภรณ์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/29"
+    },
+    {
+        "fac_id": 26,
+        "faculty_name": "วิทยาลัยพัฒนศาสตร์ป๋วยอึ๊งภากรณ์",
+        "uni_id": 10,
+        "faculty_path": "https://course.mytcas.com/universities/005/faculties/30"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะเกษตรและเทคโนโลยี",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "วิทยาลัยการบิน การศึกษา และวิจัยนานาชาติ",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาการจัดการและเทคโนโลยีสารสนเทศ",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "วิทยาลัยการท่องเที่ยวและอุตสาหกรรมบริการ",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "วิทยาลัยเทคโนโลยีอุตสาหกรรมศรีสงคราม",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "วิทยาลัยธาตุพนม",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "วิทยาลัยนาหว้า",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/12"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "วิทยาลัยพยาบาลบรมราชชนนีนครพนม",
+        "uni_id": 11,
+        "faculty_path": "https://course.mytcas.com/universities/026/faculties/13"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "พยาบาลศาสตร์",
+        "uni_id": 12,
+        "faculty_path": "https://course.mytcas.com/universities/025/faculties/04"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "วิศวกรรมศาสตร์",
+        "uni_id": 12,
+        "faculty_path": "https://course.mytcas.com/universities/025/faculties/05"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "เกษตรศาสตร์",
+        "uni_id": 12,
+        "faculty_path": "https://course.mytcas.com/universities/025/faculties/06"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "วิทยาการจัดการ",
+        "uni_id": 12,
+        "faculty_path": "https://course.mytcas.com/universities/025/faculties/07"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "แพทย์",
+        "uni_id": 12,
+        "faculty_path": "https://course.mytcas.com/universities/025/faculties/08"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "สถาบันอิสลามและอาหรับศึกษา",
+        "uni_id": 12,
+        "faculty_path": "https://course.mytcas.com/universities/025/faculties/09"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 12,
+        "faculty_path": "https://course.mytcas.com/universities/025/faculties/10"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "ศิลปศาสตร์",
+        "uni_id": 12,
+        "faculty_path": "https://course.mytcas.com/universities/025/faculties/11"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะเกษตรศาสตร์ ทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/10"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/11"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/12"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะบริหารธุรกิจ เศรษฐศาสตร์และการสื่อสาร",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/13"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/14"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/15"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/16"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะมนุษยศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/17"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/18"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะวิทยาศาสตร์การแพทย์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/19"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/20"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/21"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/22"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะสหเวชศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/23"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะสังคมศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/24"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/25"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/26"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "โลจิสติกส์และดิจิทัลซัพพลายเชน",
+        "uni_id": 13,
+        "faculty_path": "https://course.mytcas.com/universities/020/faculties/31"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "แพทยศาสตร์วชิรพยาบาล",
+        "uni_id": 14,
+        "faculty_path": "https://course.mytcas.com/universities/216/faculties/03"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "พยาบาลศาสตร์เกื้อการุณย์",
+        "uni_id": 14,
+        "faculty_path": "https://course.mytcas.com/universities/216/faculties/04"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "วิทยาลัยพัฒนามหานคร",
+        "uni_id": 14,
+        "faculty_path": "https://course.mytcas.com/universities/216/faculties/05"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "วิทยาลัยพัฒนาชุมชนเมือง",
+        "uni_id": 14,
+        "faculty_path": "https://course.mytcas.com/universities/216/faculties/06"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "วิทยาศาสตร์และเทคโนโลยีสุขภาพ",
+        "uni_id": 14,
+        "faculty_path": "https://course.mytcas.com/universities/216/faculties/07"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/04"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/05"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/07"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะรัฐศาสตร์และนิติศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/08"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/09"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะวิทยาการสารสนเทศ",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/10"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/11"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/12"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/13"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะดนตรีและการแสดง",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/14"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/15"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะโลจิสติกส์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/16"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะวิทยาศาสตร์การกีฬา",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/17"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/18"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "คณะสหเวชศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/19"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "คณะวิทยาศาตร์และศิลปศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/20"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "คณะเทคโนโลยีทางทะเล",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/21"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "คณะอัญมณี",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/22"
+    },
+    {
+        "fac_id": 21,
+        "faculty_name": "คณะวิทยาศาตร์และสังคมศาสตร์",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/23"
+    },
+    {
+        "fac_id": 22,
+        "faculty_name": "คณะเทคโนโลยีการเกษตร",
+        "uni_id": 15,
+        "faculty_path": "https://course.mytcas.com/universities/019/faculties/24"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะเกษตรศาสตร์และทรัพยากรธรรมชาติ",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะบริหารธุรกิจและนิเทศศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะวิทยาศาสตร์การแพทย์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/12"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะสหเวชศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/13"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะพลังงานและสิ่งแวดล้อม",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/14"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/19"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "วิทยาลัยการศึกษา",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/20"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "คณะรัฐศาสตร์และสังคมศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/21"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 16,
+        "faculty_path": "https://course.mytcas.com/universities/027/faculties/22"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะพุทธศาสตร์",
+        "uni_id": 17,
+        "faculty_path": "https://course.mytcas.com/universities/037/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 17,
+        "faculty_path": "https://course.mytcas.com/universities/037/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะมนุษยศาสตร์",
+        "uni_id": 17,
+        "faculty_path": "https://course.mytcas.com/universities/037/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะสังคมศาสตร์",
+        "uni_id": 17,
+        "faculty_path": "https://course.mytcas.com/universities/037/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "วิทยาลัยพุทธศาสตร์นานาชาติ",
+        "uni_id": 17,
+        "faculty_path": "https://course.mytcas.com/universities/037/faculties/06"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะแพทยศาสตร์ศิริราชพยาบาล",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะเทคนิคการแพทย์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะกายภาพบำบัด",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะสิ่งแวดล้อมและทรัพยากรศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/12"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/13"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะสังคมศาสตร์และมนุษย์ศาสตร์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/14"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/15"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "วิทยาลัยศาสนศึกษา",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/16"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "วิทยาลัยวิทยาศาสตร์และเทคโนโลยีการกีฬา",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/17"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "วิทยาเขตกาญจนบุรี",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/19"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "วิทยาเขตนครสวรรค์",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/20"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "วิทยาเขตอำนาจเจริญ",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/21"
+    },
+    {
+        "fac_id": 21,
+        "faculty_name": "ศูนย์แพทยศาสตรศึกษาชั้นคลินิก รพ.มหาราชนครราชสีมา",
+        "uni_id": 18,
+        "faculty_path": "https://course.mytcas.com/universities/006/faculties/22"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะศาสนาและปรัชญา",
+        "uni_id": 19,
+        "faculty_path": "https://course.mytcas.com/universities/036/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะมนุษยศาสตร์",
+        "uni_id": 19,
+        "faculty_path": "https://course.mytcas.com/universities/036/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะสังคมศาสตร์",
+        "uni_id": 19,
+        "faculty_path": "https://course.mytcas.com/universities/036/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 19,
+        "faculty_path": "https://course.mytcas.com/universities/036/faculties/04"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/07"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเทคโนโลยี",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/08"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะการบัญชีและการจัดการ",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/09"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะการท่องเที่ยวและการโรงแรม",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/10"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์ ผังเมืองและนฤมิตศิลป์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/11"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะวิทยาการสารสนเทศ",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/12"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "วิทยาลัยการเมืองการปกครอง",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/13"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/14"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/15"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะสิ่งแวดล้อมและทรัพยากรศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/17"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "วิทยาลัยดุริยางคศิลป์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/20"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/22"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/23"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "คณะศิลปกรรมศาสตร์และวัฒนธรรมศาสตร์",
+        "uni_id": 20,
+        "faculty_path": "https://course.mytcas.com/universities/021/faculties/24"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะผลิตกรรมการเกษตร",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะวิศวกรรมและอุตสาหกรรมเกษตร",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/03"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/04"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "วิทยาลัยบริหารศาสตร์",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/05"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/06"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะพัฒนาการท่องเที่ยว",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/09"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเทคโนโลยีการประมงและทรัพยากรทางน้ำ",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/10"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/12"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/14"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "วิทยาลัยพลังงานทดแทน",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/15"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะสารสนเทศและการสื่อสาร",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/18"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์และการออกแบบสิ่งแวดล้อม",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/19"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะสัตวศาสตร์และเทคโนโลยี",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/22"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/31"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "มหาวิทยาลัยแม่โจ้-แพร่ เฉลิมพระเกียรติ",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/08"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "มหาวิทยาลัยแม่โจ้-ชุมพร",
+        "uni_id": 21,
+        "faculty_path": "https://course.mytcas.com/universities/013/faculties/07"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "ศิลปศาสตร์",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/10"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "วิทยาศาสตร์",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/11"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "การจัดการ",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/12"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "เทคโนโลยดิจิทัลประยุกต์",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/13"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "อุตสาหกรรมเกษตร",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/14"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "นิติศาสตร์",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/16"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "วิทยาศาสตร์เครื่องสำอาง",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/17"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "วิทยาศาสตร์สุขภาพ",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/18"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "พยาบาลศาสตร์",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/19"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "แพทยศาสตร์",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/21"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "ทันตแพทยศาสตร์",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/22"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "นวัตกรรมสังคม",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/23"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "จีนวิทยา",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/24"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "การแพทย์บูรณาการ",
+        "uni_id": 22,
+        "faculty_path": "https://course.mytcas.com/universities/024/faculties/25"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 23,
+        "faculty_path": "https://course.mytcas.com/universities/034/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะทัศนมาตาศาสตร์",
+        "uni_id": 23,
+        "faculty_path": "https://course.mytcas.com/universities/034/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 23,
+        "faculty_path": "https://course.mytcas.com/universities/034/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 23,
+        "faculty_path": "https://course.mytcas.com/universities/034/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะสื่อสารมวลชน",
+        "uni_id": 23,
+        "faculty_path": "https://course.mytcas.com/universities/034/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 23,
+        "faculty_path": "https://course.mytcas.com/universities/034/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะมนุษยศาสตร์",
+        "uni_id": 23,
+        "faculty_path": "https://course.mytcas.com/universities/034/faculties/08"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 23,
+        "faculty_path": "https://course.mytcas.com/universities/034/faculties/09"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "สถาบันการศึกษานานาชาติ",
+        "uni_id": 23,
+        "faculty_path": "https://course.mytcas.com/universities/034/faculties/10"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "ครุศาสตร์และศิลปศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/11"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "วิทยาศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/12"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "รัฐศาสตร์และรัฐประศาสนศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/14"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "นิติศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/15"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "การบัญชีและการเงิน",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/20"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "การจัดการ",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/21"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "สารสนเทศศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/22"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "วิศวกรรมศาสตร์และเทคโนโลยี",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/25"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "เทคโนโลยีการเกษตรและอุตสาหกรรมอาหาร",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/26"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "พยาบาลศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/32"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "เภสัชศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/33"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "แพทยศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/34"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "สหเวชศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/35"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "สาธารณสุขศาสตร์",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/36"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "ทันตแพทยศาสตร์นานาชาติ",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/37"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "สัตวแพทยศาสตร์อัครราชกุมารี",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/38"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "สถาปัตยกรรมศาสตร์และการออกแบบ",
+        "uni_id": 24,
+        "faculty_path": "https://course.mytcas.com/universities/023/faculties/41"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะมนุษยศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะสังคมศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/05"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/07"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/10"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/11"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "วิทยาลัยนวัตกรรมสื่อสารสังคม",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/30"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/49"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะวัฒนธรรมสิ่งแวดล้อมและการท่องเที่ยวเชิงนิเวศ",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/66"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะบริหารธุรกิจเพื่อสังคม",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/68"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "วิทยาลัยอุตสาหกรรมสร้างสรรค์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/69"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "วิทยาลัยนานาชาติเพื่อศึกษาความยั่งยืน",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/70"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะพลศึกษา",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/04"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/06"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/09"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/12"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "วิทยาลัยโพธิวิชชาลัย",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/47"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "คณะกายภาพบำบัด",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/67"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "คณะเทคโนโลยีและนวัตกรรมผลิตภัณฑ์การเกษตร",
+        "uni_id": 25,
+        "faculty_path": "https://course.mytcas.com/universities/009/faculties/71"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะจิตรกรรมประติมากรรมและภาพพิมพ์",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะโบราณคดี",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะมัณฑนศิลป์",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะดุริยางคศาสตร์",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/10"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะอักษรศาสตร์",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/05"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/06"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/07"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/08"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/09"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะเทคโนโลยีสารสนเทศและการสื่อสาร",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/13"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะสัตวศาสตร์และเทคโนโลยีการเกษตร",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/11"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 26,
+        "faculty_path": "https://course.mytcas.com/universities/008/faculties/12"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะทรัพยากรธรรมชาติ",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะอุตสาหกรรมเกษตร",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/12"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะการแพทย์แผนไทย",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/13"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะเทคนิคการแพทย์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/14"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "วิทยาลัยนานาชาติ วิทยาเขตหาดใหญ่",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/15"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/16"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/18"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/19"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/20"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "คณะวิทยาการอิสลาม",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/21"
+    },
+    {
+        "fac_id": 21,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/22"
+    },
+    {
+        "fac_id": 22,
+        "faculty_name": "คณะวิทยาการสื่อสาร",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/23"
+    },
+    {
+        "fac_id": 23,
+        "faculty_name": "คณะรัฐศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/24"
+    },
+    {
+        "fac_id": 24,
+        "faculty_name": "คณะพยาบาลศาสตร์ วิทยาเขตปัตตานี",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/25"
+    },
+    {
+        "fac_id": 25,
+        "faculty_name": "คณะการบริการและการท่องเที่ยว",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/26"
+    },
+    {
+        "fac_id": 26,
+        "faculty_name": "คณะวิเทศศึกษา",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/27"
+    },
+    {
+        "fac_id": 27,
+        "faculty_name": "คณะเทคโนโลยีและสิ่งแวดล้อม",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/28"
+    },
+    {
+        "fac_id": 28,
+        "faculty_name": "วิทยาลัยการคอมพิวเตอร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/29"
+    },
+    {
+        "fac_id": 29,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/30"
+    },
+    {
+        "fac_id": 30,
+        "faculty_name": "คณะศิลปศาสตร์และวิทยาการจัดการ",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/31"
+    },
+    {
+        "fac_id": 31,
+        "faculty_name": "คณะนวัตกรรมการเกษตร ประมง และอาหาร",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/33"
+    },
+    {
+        "fac_id": 32,
+        "faculty_name": "คณะพาณิชยศาสตร์และการจัดการ",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/34"
+    },
+    {
+        "fac_id": 33,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 27,
+        "faculty_path": "https://course.mytcas.com/universities/010/faculties/35"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 28,
+        "faculty_path": "https://course.mytcas.com/universities/165/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 28,
+        "faculty_path": "https://course.mytcas.com/universities/165/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 28,
+        "faculty_path": "https://course.mytcas.com/universities/165/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 28,
+        "faculty_path": "https://course.mytcas.com/universities/165/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 28,
+        "faculty_path": "https://course.mytcas.com/universities/165/faculties/06"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "โรงเรียนการเรือน",
+        "uni_id": 28,
+        "faculty_path": "https://course.mytcas.com/universities/165/faculties/10"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "โรงเรียนการท่องเที่ยวและการบริการ",
+        "uni_id": 28,
+        "faculty_path": "https://course.mytcas.com/universities/165/faculties/11"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "โรงเรียนกฎหมายและการเมือง",
+        "uni_id": 28,
+        "faculty_path": "https://course.mytcas.com/universities/165/faculties/13"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/11"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะเกษตรศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/12"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/13"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/14"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/15"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะบริหารศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/17"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "วิทยาลัยแพทยศาสตร์และการสาธารณสุข",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/19"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะศิลปประยุกต์และสถาปัตยกรรมศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/20"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/21"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะรัฐศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/23"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 29,
+        "faculty_path": "https://course.mytcas.com/universities/018/faculties/25"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "วิทยาลัยแพทยศาสตร์ศรีสวางควัฒน",
+        "uni_id": 30,
+        "faculty_path": "https://course.mytcas.com/universities/032/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "วิทยาลัยพยาบาลศาสตร์อัครราชกุมารี",
+        "uni_id": 30,
+        "faculty_path": "https://course.mytcas.com/universities/032/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะเทคโนโลยีวิทยาศาสตร์สุขภาพ",
+        "uni_id": 30,
+        "faculty_path": "https://course.mytcas.com/universities/032/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 30,
+        "faculty_path": "https://course.mytcas.com/universities/032/faculties/04"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "สำนักวิชาพยาบาลศาสตร์",
+        "uni_id": 31,
+        "faculty_path": "https://course.mytcas.com/universities/218/faculties/00"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "สำนักวิขาดุริยางคศาสตร์",
+        "uni_id": 32,
+        "faculty_path": "https://course.mytcas.com/universities/265/faculties/01"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 33,
+        "faculty_path": "https://course.mytcas.com/universities/035/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 33,
+        "faculty_path": "https://course.mytcas.com/universities/035/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะเทคโนโลยีดิจิทัล",
+        "uni_id": 33,
+        "faculty_path": "https://course.mytcas.com/universities/035/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "สำนักวิชาเกษตรนวัต",
+        "uni_id": 33,
+        "faculty_path": "https://course.mytcas.com/universities/035/faculties/04"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะสถาปัตยกรรม ศิลปะและการออกแบบ",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะครุศาสตร์อุตสาหกรรมและเทคโนโลยี",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะเทคโนโลยีการเกษตร",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะเทคโนโลยีสารสนเทศ",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/07"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะอุตสาหกรรมอาหาร",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/08"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/10"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "วิทยาลัยเทคโนโลยีและนวัตกรรมวัสดุ",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/11"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "วิทยาลัยนวัตกรรมการผลิตขั้นสูง",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/12"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "วิทยาลัยอุตสาหกรรมการบินนานาชาติ",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/13"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/14"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/15"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "วิทยาลัยวิศวกรรมสังคีต",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/16"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/17"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "วิทยาเขตชุมพรเขตรอุดมศักดิ์ จังหวัดชุมพร",
+        "uni_id": 34,
+        "faculty_path": "https://course.mytcas.com/universities/016/faculties/20"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "เกษตรและชีวภาพ",
+        "uni_id": 35,
+        "faculty_path": "https://course.mytcas.com/universities/177/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "ศึกษาศาสตร์",
+        "uni_id": 35,
+        "faculty_path": "https://course.mytcas.com/universities/177/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "มนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 35,
+        "faculty_path": "https://course.mytcas.com/universities/177/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "วิทยาการจัดการ",
+        "uni_id": 35,
+        "faculty_path": "https://course.mytcas.com/universities/177/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "วิทยาศาสตร์",
+        "uni_id": 35,
+        "faculty_path": "https://course.mytcas.com/universities/177/faculties/05"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 36,
+        "faculty_path": "https://course.mytcas.com/universities/144/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศษสตร์",
+        "uni_id": 36,
+        "faculty_path": "https://course.mytcas.com/universities/144/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 36,
+        "faculty_path": "https://course.mytcas.com/universities/144/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 36,
+        "faculty_path": "https://course.mytcas.com/universities/144/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเทคโนโลยีการเกษตร",
+        "uni_id": 36,
+        "faculty_path": "https://course.mytcas.com/universities/144/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 36,
+        "faculty_path": "https://course.mytcas.com/universities/144/faculties/07"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "วิทยาลัยแม่ฮ่องสอน",
+        "uni_id": 36,
+        "faculty_path": "https://course.mytcas.com/universities/144/faculties/06"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะศิลปศาสตร์และวิทยาศาสตร์",
+        "uni_id": 37,
+        "faculty_path": "https://course.mytcas.com/universities/142/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 37,
+        "faculty_path": "https://course.mytcas.com/universities/142/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะครุศาสตร์และการพัฒนามนุษย์",
+        "uni_id": 37,
+        "faculty_path": "https://course.mytcas.com/universities/142/faculties/03"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 38,
+        "faculty_path": "https://course.mytcas.com/universities/146/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 38,
+        "faculty_path": "https://course.mytcas.com/universities/146/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 38,
+        "faculty_path": "https://course.mytcas.com/universities/146/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 38,
+        "faculty_path": "https://course.mytcas.com/universities/146/faculties/04"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 39,
+        "faculty_path": "https://course.mytcas.com/universities/148/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 39,
+        "faculty_path": "https://course.mytcas.com/universities/148/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 39,
+        "faculty_path": "https://course.mytcas.com/universities/148/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 39,
+        "faculty_path": "https://course.mytcas.com/universities/148/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะ เทคโนโลยีอุตสาหกรรม",
+        "uni_id": 39,
+        "faculty_path": "https://course.mytcas.com/universities/148/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 39,
+        "faculty_path": "https://course.mytcas.com/universities/148/faculties/08"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 39,
+        "faculty_path": "https://course.mytcas.com/universities/148/faculties/09"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 40,
+        "faculty_path": "https://course.mytcas.com/universities/174/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 40,
+        "faculty_path": "https://course.mytcas.com/universities/174/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 40,
+        "faculty_path": "https://course.mytcas.com/universities/174/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 40,
+        "faculty_path": "https://course.mytcas.com/universities/174/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 40,
+        "faculty_path": "https://course.mytcas.com/universities/174/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "วิทยาลัยการดนตรี",
+        "uni_id": 40,
+        "faculty_path": "https://course.mytcas.com/universities/174/faculties/06"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "มนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 41,
+        "faculty_path": "https://course.mytcas.com/universities/179/faculties/02"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "วิทยาการจัดการ",
+        "uni_id": 41,
+        "faculty_path": "https://course.mytcas.com/universities/179/faculties/03"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 41,
+        "faculty_path": "https://course.mytcas.com/universities/179/faculties/04"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "เทคโนโลยีการเกษตร",
+        "uni_id": 41,
+        "faculty_path": "https://course.mytcas.com/universities/179/faculties/05"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 41,
+        "faculty_path": "https://course.mytcas.com/universities/179/faculties/06"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "เทคโนโลยีสารสนเทศ",
+        "uni_id": 41,
+        "faculty_path": "https://course.mytcas.com/universities/179/faculties/07"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "พยาบาลศาสตร์และวิทยาการสุขภาพ",
+        "uni_id": 41,
+        "faculty_path": "https://course.mytcas.com/universities/179/faculties/08"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "วิทยาลัยนวัตกรรมอาหารและอุตสาหกรรมบริการ",
+        "uni_id": 41,
+        "faculty_path": "https://course.mytcas.com/universities/179/faculties/09"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 42,
+        "faculty_path": "https://course.mytcas.com/universities/152/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 42,
+        "faculty_path": "https://course.mytcas.com/universities/152/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 42,
+        "faculty_path": "https://course.mytcas.com/universities/152/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 42,
+        "faculty_path": "https://course.mytcas.com/universities/152/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเทคโนโลยีการเกษตรและอาหาร",
+        "uni_id": 42,
+        "faculty_path": "https://course.mytcas.com/universities/152/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 42,
+        "faculty_path": "https://course.mytcas.com/universities/152/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะสังคมศาสตร์และการพัฒนาท้องถิ่น",
+        "uni_id": 42,
+        "faculty_path": "https://course.mytcas.com/universities/152/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 42,
+        "faculty_path": "https://course.mytcas.com/universities/152/faculties/08"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 43,
+        "faculty_path": "https://course.mytcas.com/universities/150/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "วิทยาลัยการฝึกหัดครู",
+        "uni_id": 43,
+        "faculty_path": "https://course.mytcas.com/universities/150/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 43,
+        "faculty_path": "https://course.mytcas.com/universities/150/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 43,
+        "faculty_path": "https://course.mytcas.com/universities/150/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 43,
+        "faculty_path": "https://course.mytcas.com/universities/150/faculties/05"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "มนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 45,
+        "faculty_path": "https://course.mytcas.com/universities/153/faculties/12"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 46,
+        "faculty_path": "https://course.mytcas.com/universities/164/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 46,
+        "faculty_path": "https://course.mytcas.com/universities/164/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 46,
+        "faculty_path": "https://course.mytcas.com/universities/164/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 46,
+        "faculty_path": "https://course.mytcas.com/universities/164/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเทคโนโลยีการเกษตร",
+        "uni_id": 46,
+        "faculty_path": "https://course.mytcas.com/universities/164/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 46,
+        "faculty_path": "https://course.mytcas.com/universities/164/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 46,
+        "faculty_path": "https://course.mytcas.com/universities/164/faculties/07"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "วิทยาลัยนวัตกรรมและการจัดการ",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/09"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "วิทยาลัยสถาปัตยกรรมศาสตร์",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/10"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "วิทยาลัยการจัดการอุตสาหกรรมบริการ",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/11"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "วิทยาลัยการเมืองและการปกครอง",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/15"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/16"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "วิทยาลัยโลจิสติกส์และซัพพลายเชน",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/08"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "ศูนย์การศึกษาจังหวัดรอุดรธานี",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/24"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "วิทยาลัยนิเทศศาสตร์",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/13"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "วิทยาลัยพยาบาลและสุขภาพ",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/12"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "วิทยาลัยสหเวชศาสตร์",
+        "uni_id": 47,
+        "faculty_path": "https://course.mytcas.com/universities/166/faculties/14"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะครุศาสตร์",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะบริหารธุรกิจและการจัดการ",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเทคโนโลยีอุตสาหกรรม",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะเกษตรศาสตร์",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะแพทย์แผนไทยและแพทย์ทางเลือก",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะวิทยาการคอมพิวเตอร์",
+        "uni_id": 48,
+        "faculty_path": "https://course.mytcas.com/universities/171/faculties/11"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 49,
+        "faculty_path": "https://course.mytcas.com/universities/192/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 49,
+        "faculty_path": "https://course.mytcas.com/universities/192/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะครุศาสตร์อุตสาหกรรม",
+        "uni_id": 49,
+        "faculty_path": "https://course.mytcas.com/universities/192/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 49,
+        "faculty_path": "https://course.mytcas.com/universities/192/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 49,
+        "faculty_path": "https://course.mytcas.com/universities/192/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะเทคโนโลยีคหกรรมศาสตร์",
+        "uni_id": 49,
+        "faculty_path": "https://course.mytcas.com/universities/192/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะอุตสาหกรรมสิ่งทอ",
+        "uni_id": 49,
+        "faculty_path": "https://course.mytcas.com/universities/192/faculties/07"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "เกษตรศาสตร์และทรัพยากรธรรมชาติ",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "มนุษยศาสตร์และสังคมศาสตร์",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/05"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "วิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/06"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "สัตวแพทยศาสตร์",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/10"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "สำนักวิชาวิศวกรรมศาสตร์และนวัตกรรม",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/11"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "สถาบันเทคโนโลยีการบินและอวกาศ",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/12"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "สถาบันนวัตกรรมการศึกษาและการเรียนรู้ตลอดชีวิต",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/15"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "บริหารธุรกิจและเทคโนโลยีสารสนเทศ",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/04"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "ศิลปศาสตร์",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/08"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "เทคโนโลยีสังคม",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/02"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "เทคโนโลยีอุตสาหกรรมการเกษตร",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/03"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะวิศวกรรมศาสตร์บูรณาการและเทคโนโลยี",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/16"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "วิศวกรรมศาสตร์และสถาปัตยกรรมศาสตร์",
+        "uni_id": 50,
+        "faculty_path": "https://course.mytcas.com/universities/193/faculties/07"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะครุศาสตร์อุตสาหกรรม",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/04"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/05"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเทคโนโลยีคหกรรมศาสตร์",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/06"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/07"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเทคโนโลยีสื่อสารมวลชน",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/08"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/09"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/10"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/12"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะเทคโนโลยีการเกษตร",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/03"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "การแพทย์บูรณาการ",
+        "uni_id": 51,
+        "faculty_path": "https://course.mytcas.com/universities/191/faculties/11"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะครุศาสตร์อุตสาหกรรม",
+        "uni_id": 52,
+        "faculty_path": "https://course.mytcas.com/universities/194/faculties/05"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะเทคโนโลยีสื่อสารมวลชน",
+        "uni_id": 52,
+        "faculty_path": "https://course.mytcas.com/universities/194/faculties/08"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 52,
+        "faculty_path": "https://course.mytcas.com/universities/194/faculties/02"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 52,
+        "faculty_path": "https://course.mytcas.com/universities/194/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 52,
+        "faculty_path": "https://course.mytcas.com/universities/194/faculties/01"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 52,
+        "faculty_path": "https://course.mytcas.com/universities/194/faculties/03"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะอุตสาหกรรมสิ่งทอและออกแบบแฟชั่น",
+        "uni_id": 52,
+        "faculty_path": "https://course.mytcas.com/universities/194/faculties/06"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะเทคโนโลยีคหกรรมศาสตร์",
+        "uni_id": 52,
+        "faculty_path": "https://course.mytcas.com/universities/194/faculties/07"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+        "uni_id": 52,
+        "faculty_path": "https://course.mytcas.com/universities/194/faculties/09"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 53,
+        "faculty_path": "https://course.mytcas.com/universities/195/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์และการออกแบบ",
+        "uni_id": 53,
+        "faculty_path": "https://course.mytcas.com/universities/195/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 53,
+        "faculty_path": "https://course.mytcas.com/universities/195/faculties/05"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 53,
+        "faculty_path": "https://course.mytcas.com/universities/195/faculties/10"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "วิทยาลัยผู้ประกอบการสร้างสรรค์นานาชาติรัตนโกสินทร์(ศาลายา)",
+        "uni_id": 53,
+        "faculty_path": "https://course.mytcas.com/universities/195/faculties/11"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะอุตสาหกรรมและเทคโนโลยี",
+        "uni_id": 53,
+        "faculty_path": "https://course.mytcas.com/universities/195/faculties/03"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะอุตสาหกรรมการโรงแรมและการท่องเที่ยว",
+        "uni_id": 53,
+        "faculty_path": "https://course.mytcas.com/universities/195/faculties/04"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 53,
+        "faculty_path": "https://course.mytcas.com/universities/195/faculties/06"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "วิทยาลัยเพาะช่าง",
+        "uni_id": 53,
+        "faculty_path": "https://course.mytcas.com/universities/195/faculties/07"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/04"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/05"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/10"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะครุศาสตร์อุตสาหกรรมและเทคโนโลยี",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/14"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/02"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเกษตรศาสตร์",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/03"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะเทคโนโลยีการจัดการ",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/11"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะอุตสาหกรรมเกษตร",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/07"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/12"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "วิทยาลัยเทคโนโลยีอุตสาหกรรมและการจัดการ",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/09"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยีการประมง",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/06"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "วิทยาลัยการโรงแรมและการท่องเที่ยว",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/08"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+        "uni_id": 55,
+        "faculty_path": "https://course.mytcas.com/universities/197/faculties/15"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะวิทยาศาสตร์และศิลปศาสตร์",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์และศิลปกรรมสร้างสรรค์",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะระบบรางและการขนส่ง",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "สถาบันสหสรรพศาสตร์",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเกษตรศาสตร์และเทคโนโลยี",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/20"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะเทคโนโลยีการจัดการ",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/21"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะครุศาสตร์อุตสาหกรรม",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/30"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/31"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะบริหารธุรกิจและเทคโนโลยีสารสนเทศ",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/32"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะทรัพยากรธรรมชาติ",
+        "uni_id": 56,
+        "faculty_path": "https://course.mytcas.com/universities/199/faculties/51"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/04"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/01"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/02"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะนิเทศศาสตร์",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/03"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะจิตวิทยา",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะวิทยาศาสตร์การกีฬา",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "โครงการหลักสูตรบริหารธุรกิจบัณฑิต (หลักสูตรนานาชาติ)",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/39"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "สถาบันพัฒนาบุคลากรการบิน",
+        "uni_id": 57,
+        "faculty_path": "https://course.mytcas.com/universities/180/faculties/61"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะเทคโนโลยีดิจิทัลและนวัตกรรม",
+        "uni_id": 58,
+        "faculty_path": "https://course.mytcas.com/universities/923/faculties/00"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "สหเวชศาสตร์ สาธารณสุขศาสตร์ เทคนิคการแพทย์ พยาบาลศาสตร์ วิทยาศาสตร์การกีฬา",
+        "uni_id": 59,
+        "faculty_path": "https://course.mytcas.com/universities/061/faculties/11"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "สัตวแพทยศาสตร์",
+        "uni_id": 59,
+        "faculty_path": "https://course.mytcas.com/universities/061/faculties/14"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "วิศวกรรมศาสตร์",
+        "uni_id": 59,
+        "faculty_path": "https://course.mytcas.com/universities/061/faculties/30"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "บริหารธุรกิจ พาณิชยศาสตร์ การบัญชี และเศรษฐศาสตร์",
+        "uni_id": 59,
+        "faculty_path": "https://course.mytcas.com/universities/061/faculties/61"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "วิทยาลัยบริหารธุรกิจนวัตกรรมและการบัญชี",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "วิทยาลัยวิศวกรรมศาสตร์และเทคโนโลยี",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "วิทยาลัยการแพทย์แบบบูรณาการ",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "วิทยาลัยการพัฒนาและฝึกอบรมด้านการบิน",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "วิทยาลัยครีเอทีฟดีไซน์ แอนด์ เอ็นเตอร์เทนเมนต์เทคโนโลยี",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะนิติศาสตร์ปรีดี พนมยงค์",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะนิเทศศาสตร์",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะศิลปกรรมศาสตร์",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะรัฐประศาสนศาสตร์",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะการท่องเที่ยวและการโรงแรม",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "วิทยาลัยเฮลท์แอนด์เวลเนส",
+        "uni_id": 60,
+        "faculty_path": "https://course.mytcas.com/universities/103/faculties/12"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 61,
+        "faculty_path": "https://course.mytcas.com/universities/905/faculties/04"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 61,
+        "faculty_path": "https://course.mytcas.com/universities/905/faculties/05"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะเทคนิคการแพทย์",
+        "uni_id": 61,
+        "faculty_path": "https://course.mytcas.com/universities/905/faculties/06"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะศิลปศาสตร์และมนุษยศาสตร์",
+        "uni_id": 62,
+        "faculty_path": "https://course.mytcas.com/universities/129/faculties/02"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 62,
+        "faculty_path": "https://course.mytcas.com/universities/129/faculties/03"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 62,
+        "faculty_path": "https://course.mytcas.com/universities/129/faculties/04"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะเทคโนโลยีสารสนเทศ",
+        "uni_id": 62,
+        "faculty_path": "https://course.mytcas.com/universities/129/faculties/05"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 62,
+        "faculty_path": "https://course.mytcas.com/universities/129/faculties/06"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศาสนศึกษา",
+        "uni_id": 62,
+        "faculty_path": "https://course.mytcas.com/universities/129/faculties/07"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะพยาบาลศาสตร์มิชชั่น",
+        "uni_id": 62,
+        "faculty_path": "https://course.mytcas.com/universities/129/faculties/01"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+        "uni_id": 63,
+        "faculty_path": "https://course.mytcas.com/universities/911/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะบริหารธุรกิจและการบัญชี",
+        "uni_id": 63,
+        "faculty_path": "https://course.mytcas.com/universities/911/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 63,
+        "faculty_path": "https://course.mytcas.com/universities/911/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะรัฐศาสตร์",
+        "uni_id": 63,
+        "faculty_path": "https://course.mytcas.com/universities/911/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะสหเวชศาสตร์",
+        "uni_id": 63,
+        "faculty_path": "https://course.mytcas.com/universities/911/faculties/06"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 63,
+        "faculty_path": "https://course.mytcas.com/universities/911/faculties/07"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 65,
+        "faculty_path": "https://course.mytcas.com/universities/910/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 65,
+        "faculty_path": "https://course.mytcas.com/universities/910/faculties/05"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 65,
+        "faculty_path": "https://course.mytcas.com/universities/910/faculties/06"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "วิทยาลัยศิลปศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "วิทยาลัยนิเทศศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "วิทยาลัยการออกแบบ",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/06"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะกายภาพบำบัดและเวชศาสตร์การกีฬา",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/07"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเทคนิคการแพทย์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/08"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะสถาปัตยกรรมศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/10"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "วิทยาลัยวิศวกรรมศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/11"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/13"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "วิทยาลัยนวัตกรรมดิจิทัลเทคโนโลยี",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/14"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/15"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "วิทยาลัยการท่องเที่ยวและอุตสาหกรรมการบริการ",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/16"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/17"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/18"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "วิทยาลัยการแพทย์แผนตะวันออก",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/19"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "วิทยาลัยดนตรี",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/20"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "วิทยาลัยผู้นำและนวัตกรรมสังคม",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/21"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "คณะบัญชี",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/22"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "วิทยาลัยทันตแพทยศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/23"
+    },
+    {
+        "fac_id": 21,
+        "faculty_name": "สถาบันการบิน",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/26"
+    },
+    {
+        "fac_id": 22,
+        "faculty_name": "คณะการทูตและการต่างประเทศ",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/30"
+    },
+    {
+        "fac_id": 23,
+        "faculty_name": "วิทยาลัยนานาชาติจีน",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/32"
+    },
+    {
+        "fac_id": 24,
+        "faculty_name": "คณะดิจิทัลอาร์ต",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/34"
+    },
+    {
+        "fac_id": 25,
+        "faculty_name": "คณะรัฐศาสตร์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/35"
+    },
+    {
+        "fac_id": 26,
+        "faculty_name": "คณะนวัตกรรมเกษตร",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/36"
+    },
+    {
+        "fac_id": 27,
+        "faculty_name": "คณะเทคโนโลยีอาหาร",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/37"
+    },
+    {
+        "fac_id": 28,
+        "faculty_name": "คณะอาชญาวิทยาและการบริหารงานยุติธรรม",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/39"
+    },
+    {
+        "fac_id": 29,
+        "faculty_name": "คณะรังสีเทคนิค",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/40"
+    },
+    {
+        "fac_id": 30,
+        "faculty_name": "วิทยาลัยวิศวกรรมชีวการแพทย์",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/41"
+    },
+    {
+        "fac_id": 31,
+        "faculty_name": "วิทยาลัยการกีฬา",
+        "uni_id": 67,
+        "faculty_path": "https://course.mytcas.com/universities/068/faculties/42"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะสัตวแพทยศาสตร์",
+        "uni_id": 69,
+        "faculty_path": "https://course.mytcas.com/universities/102/faculties/03"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 69,
+        "faculty_path": "https://course.mytcas.com/universities/102/faculties/04"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะสาธารณสุขศาสตร์",
+        "uni_id": 69,
+        "faculty_path": "https://course.mytcas.com/universities/102/faculties/06"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 69,
+        "faculty_path": "https://course.mytcas.com/universities/102/faculties/01"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 69,
+        "faculty_path": "https://course.mytcas.com/universities/102/faculties/02"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะเทคนิคการแพทย์",
+        "uni_id": 69,
+        "faculty_path": "https://course.mytcas.com/universities/102/faculties/05"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะบริหารธุรกิจ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะนิติศาสตร์ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะบัญชี (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะศิลปศาสตร์ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะนิเทศศาสตร์ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "วิทยาลัยการท่องเที่ยวและการบริการ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะการออกแบบและสถาปัตยกรรมศาสตร์ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "วิทยาลัยการบินและคมนาคม (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะดิจิทัลมีเดีย (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะเทคโนโลยีสารสนเทศ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะการสร้างเจ้าของธุรกิจ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/12"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "วิทยาลัยโลจิสติกส์และซัพพลายเชน (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/13"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "วิทยาลัยนานาชาติ (กทม.)",
+        "uni_id": 70,
+        "faculty_path": "https://course.mytcas.com/universities/054/faculties/14"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะนิเทศศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะวิทยาศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะเทคโนโลยีสารสนเทศ",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะแพทยศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะรัฐศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/14"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะทันตแพทยศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/15"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะทัศนมาตรศาสตร์",
+        "uni_id": 71,
+        "faculty_path": "https://course.mytcas.com/universities/181/faculties/16"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิทยาศาตร์และเทคโนโลยี",
+        "uni_id": 72,
+        "faculty_path": "https://course.mytcas.com/universities/130/faculties/00"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะบัญชี",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะเศรษฐศาสตร์",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะมนุษยศาสตร์",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะนิเทศศาสตร์",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะวิศวกรรมศาสตร์",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "วิทยาลัยนานาชาติเพื่อการจัดการ",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "วิทยาลัยผู้ประกอบการ",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะการท่องเที่ยวและอุตสาหกรรมบริการ",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะการศึกษาปฐมวัย",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/12"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะศิลปะและการออกแบบดิจิทัล",
+        "uni_id": 73,
+        "faculty_path": "https://course.mytcas.com/universities/056/faculties/13"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะสังคมสงเคราะห์ศาสตร์และสวัสดิการสังคม",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะวิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะเภสัชศาสตร์",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะเทคนิคการแพทย์",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะกายภาพบำบัด",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะสาธารณสุขศาสตร์และสิงแวดล้อม",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "คณะการแพทย์แผนจีน",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/11"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "คณะนิติศาสตร์",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/12"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะนิเทศศาสตร์",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/13"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "วิทยาลัยจีนศึกษา",
+        "uni_id": 74,
+        "faculty_path": "https://course.mytcas.com/universities/073/faculties/15"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "พยาบาลศาสตร์",
+        "uni_id": 77,
+        "faculty_path": "https://course.mytcas.com/universities/115/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "จิตวิทยา",
+        "uni_id": 77,
+        "faculty_path": "https://course.mytcas.com/universities/115/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "กายภาพบำบัด",
+        "uni_id": 77,
+        "faculty_path": "https://course.mytcas.com/universities/115/faculties/05"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะศิลปะการประกอบอาหาร",
+        "uni_id": 78,
+        "faculty_path": "https://course.mytcas.com/universities/117/faculties/01"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะสหเวชศาสตร์",
+        "uni_id": 79,
+        "faculty_path": "https://course.mytcas.com/universities/916/faculties/01"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 80,
+        "faculty_path": "https://course.mytcas.com/universities/917/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะนิติศาสตร์และรัฐศาสตร์",
+        "uni_id": 80,
+        "faculty_path": "https://course.mytcas.com/universities/917/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะศึกษาศาสตร์",
+        "uni_id": 80,
+        "faculty_path": "https://course.mytcas.com/universities/917/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะสหเวชศาสตร์",
+        "uni_id": 80,
+        "faculty_path": "https://course.mytcas.com/universities/917/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 80,
+        "faculty_path": "https://course.mytcas.com/universities/917/faculties/05"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์และเทคโนโลยี",
+        "uni_id": 82,
+        "faculty_path": "https://course.mytcas.com/universities/918/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะศิลปศาสตร์",
+        "uni_id": 82,
+        "faculty_path": "https://course.mytcas.com/universities/918/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะวิทยาการจัดการ",
+        "uni_id": 82,
+        "faculty_path": "https://course.mytcas.com/universities/918/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะนิเทศศาสตร์",
+        "uni_id": 82,
+        "faculty_path": "https://course.mytcas.com/universities/918/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะเกษตรนวัตและการจัดการ",
+        "uni_id": 82,
+        "faculty_path": "https://course.mytcas.com/universities/918/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะการจัดการธุรกิจอาหาร",
+        "uni_id": 82,
+        "faculty_path": "https://course.mytcas.com/universities/918/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะการจัดการโลจิสติกส์และการคมนาคมขนส่ง",
+        "uni_id": 82,
+        "faculty_path": "https://course.mytcas.com/universities/918/faculties/08"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "วิทยาลัยนานาชาติ",
+        "uni_id": 82,
+        "faculty_path": "https://course.mytcas.com/universities/918/faculties/09"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 82,
+        "faculty_path": "https://course.mytcas.com/universities/918/faculties/11"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะวิศวกรรมศาสตร์ วิทยาศาสตร์และเทคโนโลยี",
+        "uni_id": 83,
+        "faculty_path": "https://course.mytcas.com/universities/914/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะศึกษาศาสตร์และศิลปศาสตร์",
+        "uni_id": 83,
+        "faculty_path": "https://course.mytcas.com/universities/914/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะรัฐประศาสนศาสตร์",
+        "uni_id": 83,
+        "faculty_path": "https://course.mytcas.com/universities/914/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะบริหารธุรกิจ",
+        "uni_id": 83,
+        "faculty_path": "https://course.mytcas.com/universities/914/faculties/04"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/02"
+    },
+    {
+        "fac_id": 3,
+        "faculty_name": "คณะแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย – กรมแพทย์ทหารอากาศ กองทัพอากาศ",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/03"
+    },
+    {
+        "fac_id": 4,
+        "faculty_name": "คณะแพทยศาสตร์ มหาวิทยาลัยเชียงใหม่",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/04"
+    },
+    {
+        "fac_id": 5,
+        "faculty_name": "คณะแพทยศาสตร์ มหาวิทยาลัยธรรมศาสตร์",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/05"
+    },
+    {
+        "fac_id": 6,
+        "faculty_name": "คณะแพทยศาสตร์ มหาวิทยาลัยนเรศวร",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/06"
+    },
+    {
+        "fac_id": 7,
+        "faculty_name": "คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี มหาวิทยาลัยมหิดล",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/07"
+    },
+    {
+        "fac_id": 8,
+        "faculty_name": "คณะแพทยศาสตร์ศิริราชพยาบาล มหาวิทยาลัยมหิดล",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/08"
+    },
+    {
+        "fac_id": 9,
+        "faculty_name": "วิทยาลัยแพทยศาสตร์ มหาวิทยาลัยรังสิต (โรงพยาบาลราชวิถี) (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/09"
+    },
+    {
+        "fac_id": 10,
+        "faculty_name": "วิทยาลัยแพทยศาสตร์ มหาวิทยาลัยรังสิต (โรงพยาบาลเลิดสิน) (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/10"
+    },
+    {
+        "fac_id": 11,
+        "faculty_name": "วิทยาลัยแพทยศาสตร์ มหาวิทยาลัยรังสิต (โรงพยาบาลนพรัตนราชธานี) (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/11"
+    },
+    {
+        "fac_id": 12,
+        "faculty_name": "คณะแพทยศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/12"
+    },
+    {
+        "fac_id": 13,
+        "faculty_name": "คณะแพทยศาสตร์ มหาวิทยาลัยสงขลานครินทร์",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/13"
+    },
+    {
+        "fac_id": 14,
+        "faculty_name": "คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/14"
+    },
+    {
+        "fac_id": 15,
+        "faculty_name": "คณะแพทยศาสตร์วชิรพยาบาล มหาวิทยาลัยนวมินทราธิราช-โรงพยาบาลตากสิน สำนักการแพทย์กรุงเทพมหานคร",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/15"
+    },
+    {
+        "fac_id": 16,
+        "faculty_name": "วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า** เพศชาย",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/16"
+    },
+    {
+        "fac_id": 17,
+        "faculty_name": "วิทยาลัยแพทยศาสตร์พระมงกุฎเกล้า** เพศหญิง",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/17"
+    },
+    {
+        "fac_id": 18,
+        "faculty_name": "สำนักวิชาแพทยศาสตร์ มหาวิทยาลัยเทคโนโลยีสุรนารี",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/18"
+    },
+    {
+        "fac_id": 19,
+        "faculty_name": "คณะแพทยศาสตร์มหาวิทยาลัยบูรพา",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/19"
+    },
+    {
+        "fac_id": 20,
+        "faculty_name": "สำนักวิชาแพทยศาสตร์ มหาวิทยาลัยแม่ฟ้าหลวง",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/20"
+    },
+    {
+        "fac_id": 21,
+        "faculty_name": "คณะแพทยศาสตร์ มหาวิทยาลัยสยาม (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/21"
+    },
+    {
+        "fac_id": 22,
+        "faculty_name": "คณะแพทยศาสตร์ มหาวิทยาลัยเวสเทิร์น (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/22"
+    },
+    {
+        "fac_id": 23,
+        "faculty_name": "วิทยาลัยแพทยศาสตร์ศรีสวางควัฒน ราชวิทยาลัยจุฬาภรณ์",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/23"
+    },
+    {
+        "fac_id": 24,
+        "faculty_name": "คณะแพทยศาสตร์ มหาวิทยาลัยเกษตรศาสตร์",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/24"
+    },
+    {
+        "fac_id": 25,
+        "faculty_name": "คณะทันตแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/25"
+    },
+    {
+        "fac_id": 26,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยมหิดล",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/26"
+    },
+    {
+        "fac_id": 27,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยเชียงใหม่",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/27"
+    },
+    {
+        "fac_id": 28,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยสงขลานครินทร์",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/28"
+    },
+    {
+        "fac_id": 29,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/29"
+    },
+    {
+        "fac_id": 30,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/30"
+    },
+    {
+        "fac_id": 31,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยธรรมศาสตร์",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/31"
+    },
+    {
+        "fac_id": 32,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยนเรศวร",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/32"
+    },
+    {
+        "fac_id": 33,
+        "faculty_name": "สำนักวิชาทันตแพทยศาสตร์ มหาวิทยาลัยเทคโนโลยีสุรนารี",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/33"
+    },
+    {
+        "fac_id": 34,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยเนชั่น (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/34"
+    },
+    {
+        "fac_id": 35,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยเวสเทิร์น (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/35"
+    },
+    {
+        "fac_id": 36,
+        "faculty_name": "วิทยาลัยทันตแพทยศาสตร์ มหาวิทยาลัยรังสิต (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/36"
+    },
+    {
+        "fac_id": 37,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยกรุงเทพธนบุรี (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/37"
+    },
+    {
+        "fac_id": 38,
+        "faculty_name": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยสยาม (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/38"
+    },
+    {
+        "fac_id": 39,
+        "faculty_name": "สำนักวิชาทันตแพทยศาสตร์ มหาวิทยาลัยแม่ฟ้าหลวง",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/39"
+    },
+    {
+        "fac_id": 40,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/40"
+    },
+    {
+        "fac_id": 41,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเกษตรศาสตร์",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/41"
+    },
+    {
+        "fac_id": 42,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/42"
+    },
+    {
+        "fac_id": 43,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเชียงใหม่",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/43"
+    },
+    {
+        "fac_id": 44,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยมหิดล",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/44"
+    },
+    {
+        "fac_id": 45,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเทคโนโลยีมหานคร (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/45"
+    },
+    {
+        "fac_id": 46,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยมหาสารคาม",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/46"
+    },
+    {
+        "fac_id": 47,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/47"
+    },
+    {
+        "fac_id": 48,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/48"
+    },
+    {
+        "fac_id": 49,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยสงขลานครินทร์",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/49"
+    },
+    {
+        "fac_id": 50,
+        "faculty_name": "คณะสัตวแพทยศาสตร์ มหาวิทยาลัยเวสเทิร์น (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/50"
+    },
+    {
+        "fac_id": 51,
+        "faculty_name": "คณะเภสัชศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย (สาขาวิชาการบริบาลทางเภสัชกรรม)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/51"
+    },
+    {
+        "fac_id": 52,
+        "faculty_name": "คณะเภสัชศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย (สาขาวิชาเภสัชกรรมอุตสาหการ)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/52"
+    },
+    {
+        "fac_id": 53,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยมหิดล",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/53"
+    },
+    {
+        "fac_id": 54,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยเชียงใหม่",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/54"
+    },
+    {
+        "fac_id": 55,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ (สาขาวิชาการบริบาลทางเภสัชกรรม)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/55"
+    },
+    {
+        "fac_id": 56,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ (สาขาวิชาเภสัชกรรมอุตสาหการ)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/56"
+    },
+    {
+        "fac_id": 57,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยธรรมศาสตร์",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/57"
+    },
+    {
+        "fac_id": 58,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยมหาสารคาม (สาขาวิชาการบริบาลทางเภสัชกรรม)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/58"
+    },
+    {
+        "fac_id": 59,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยบูรพา",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/59"
+    },
+    {
+        "fac_id": 60,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยสยาม (สถาบันเอกชน) (สาขาวิชาการบริบาลทางเภสัชกรรม)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/60"
+    },
+    {
+        "fac_id": 61,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/61"
+    },
+    {
+        "fac_id": 62,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยพายัพ (สถาบันเอกชน) (สาขาวิชาการบริบาลทางเภสัชกรรม)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/62"
+    },
+    {
+        "fac_id": 63,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยอุบลราชธานี (สาขาวิชาการบริบาลทางเภสัชกรรม)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/63"
+    },
+    {
+        "fac_id": 64,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยอุบลราชธานี (สาขาวิชาเภสัชกรรมอุตสาหการ)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/64"
+    },
+    {
+        "fac_id": 65,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยสงขลานครินทร์ (สาขาวิชาเภสัชกรรมอุตสาหการ)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/65"
+    },
+    {
+        "fac_id": 66,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยสงขลานครินทร์ (สาขาวิชาการบริบาลทางเภสัชกรรม)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/66"
+    },
+    {
+        "fac_id": 67,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น (หลักสูตรไทย)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/67"
+    },
+    {
+        "fac_id": 68,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยศิลปากร",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/68"
+    },
+    {
+        "fac_id": 69,
+        "faculty_name": "คณะเภสัชศาสตร์ มหาวิทยาลัยเวสเทิร์น (สถาบันเอกชน)",
+        "uni_id": 85,
+        "faculty_path": "https://course.mytcas.com/universities/031/faculties/69"
+    },
+    {
+        "fac_id": 1,
+        "faculty_name": "คณะพยาบาลศาสตร์",
+        "uni_id": 86,
+        "faculty_path": "https://course.mytcas.com/universities/221/faculties/01"
+    },
+    {
+        "fac_id": 2,
+        "faculty_name": "คณะสหเวชศาสตร์และสาธารณสุขศาสตร์",
+        "uni_id": 86,
+        "faculty_path": "https://course.mytcas.com/universities/221/faculties/02"
+    }
+]

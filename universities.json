@@ -1,0 +1,432 @@
+[
+    {
+        "uni_id": 1,
+        "university_name": "จุฬาลงกรณ์มหาวิทยาลัย",
+        "sub_path": "https://course.mytcas.com/universities/001"
+    },
+    {
+        "uni_id": 2,
+        "university_name": "มหาวิทยาลัยเกษตรศาสตร์",
+        "sub_path": "https://course.mytcas.com/universities/002"
+    },
+    {
+        "uni_id": 3,
+        "university_name": "มหาวิทยาลัยกาฬสินธุ์",
+        "sub_path": "https://course.mytcas.com/universities/028"
+    },
+    {
+        "uni_id": 4,
+        "university_name": "มหาวิทยาลัยขอนแก่น",
+        "sub_path": "https://course.mytcas.com/universities/003"
+    },
+    {
+        "uni_id": 5,
+        "university_name": "มหาวิทยาลัยเชียงใหม่",
+        "sub_path": "https://course.mytcas.com/universities/004"
+    },
+    {
+        "uni_id": 6,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+        "sub_path": "https://course.mytcas.com/universities/014"
+    },
+    {
+        "uni_id": 7,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+        "sub_path": "https://course.mytcas.com/universities/015"
+    },
+    {
+        "uni_id": 8,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีสุรนารี",
+        "sub_path": "https://course.mytcas.com/universities/017"
+    },
+    {
+        "uni_id": 9,
+        "university_name": "มหาวิทยาลัยทักษิณ",
+        "sub_path": "https://course.mytcas.com/universities/022"
+    },
+    {
+        "uni_id": 10,
+        "university_name": "มหาวิทยาลัยธรรมศาสตร์",
+        "sub_path": "https://course.mytcas.com/universities/005"
+    },
+    {
+        "uni_id": 11,
+        "university_name": "มหาวิทยาลัยนครพนม",
+        "sub_path": "https://course.mytcas.com/universities/026"
+    },
+    {
+        "uni_id": 12,
+        "university_name": "มหาวิทยาลัยนราธิวาสราชนครินทร์",
+        "sub_path": "https://course.mytcas.com/universities/025"
+    },
+    {
+        "uni_id": 13,
+        "university_name": "มหาวิทยาลัยนเรศวร",
+        "sub_path": "https://course.mytcas.com/universities/020"
+    },
+    {
+        "uni_id": 14,
+        "university_name": "มหาวิทยาลัยนวมินทราธิราช",
+        "sub_path": "https://course.mytcas.com/universities/216"
+    },
+    {
+        "uni_id": 15,
+        "university_name": "มหาวิทยาลัยบูรพา",
+        "sub_path": "https://course.mytcas.com/universities/019"
+    },
+    {
+        "uni_id": 16,
+        "university_name": "มหาวิทยาลัยพะเยา",
+        "sub_path": "https://course.mytcas.com/universities/027"
+    },
+    {
+        "uni_id": 17,
+        "university_name": "มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย",
+        "sub_path": "https://course.mytcas.com/universities/037"
+    },
+    {
+        "uni_id": 18,
+        "university_name": "มหาวิทยาลัยมหิดล",
+        "sub_path": "https://course.mytcas.com/universities/006"
+    },
+    {
+        "uni_id": 19,
+        "university_name": "มหาวิทยาลัยมหามกุฏราชวิทยาลัย",
+        "sub_path": "https://course.mytcas.com/universities/036"
+    },
+    {
+        "uni_id": 20,
+        "university_name": "มหาวิทยาลัยมหาสารคาม",
+        "sub_path": "https://course.mytcas.com/universities/021"
+    },
+    {
+        "uni_id": 21,
+        "university_name": "มหาวิทยาลัยแม่โจ้",
+        "sub_path": "https://course.mytcas.com/universities/013"
+    },
+    {
+        "uni_id": 22,
+        "university_name": "มหาวิทยาลัยแม่ฟ้าหลวง",
+        "sub_path": "https://course.mytcas.com/universities/024"
+    },
+    {
+        "uni_id": 23,
+        "university_name": "มหาวิทยาลัยรามคำแหง",
+        "sub_path": "https://course.mytcas.com/universities/034"
+    },
+    {
+        "uni_id": 24,
+        "university_name": "มหาวิทยาลัยวลัยลักษณ์",
+        "sub_path": "https://course.mytcas.com/universities/023"
+    },
+    {
+        "uni_id": 25,
+        "university_name": "มหาวิทยาลัยศรีนครินทรวิโรฒ",
+        "sub_path": "https://course.mytcas.com/universities/009"
+    },
+    {
+        "uni_id": 26,
+        "university_name": "มหาวิทยาลัยศิลปากร",
+        "sub_path": "https://course.mytcas.com/universities/008"
+    },
+    {
+        "uni_id": 27,
+        "university_name": "มหาวิทยาลัยสงขลานครินทร์",
+        "sub_path": "https://course.mytcas.com/universities/010"
+    },
+    {
+        "uni_id": 28,
+        "university_name": "มหาวิทยาลัยสวนดุสิต",
+        "sub_path": "https://course.mytcas.com/universities/165"
+    },
+    {
+        "uni_id": 29,
+        "university_name": "มหาวิทยาลัยอุบลราชธานี",
+        "sub_path": "https://course.mytcas.com/universities/018"
+    },
+    {
+        "uni_id": 30,
+        "university_name": "ราชวิทยาลัยจุฬาภรณ์",
+        "sub_path": "https://course.mytcas.com/universities/032"
+    },
+    {
+        "uni_id": 31,
+        "university_name": "สถาบันการพยาบาลศรีสวรินทิรา",
+        "sub_path": "https://course.mytcas.com/universities/218"
+    },
+    {
+        "uni_id": 32,
+        "university_name": "สถาบันดนตรีกัลยาณิวัฒนา",
+        "sub_path": "https://course.mytcas.com/universities/265"
+    },
+    {
+        "uni_id": 33,
+        "university_name": "สถาบันเทคโนโลยีจิตรลดา",
+        "sub_path": "https://course.mytcas.com/universities/035"
+    },
+    {
+        "uni_id": 34,
+        "university_name": "สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+        "sub_path": "https://course.mytcas.com/universities/016"
+    },
+    {
+        "uni_id": 35,
+        "university_name": "มหาวิทยาลัยราชภัฏจันทรเกษม",
+        "sub_path": "https://course.mytcas.com/universities/177"
+    },
+    {
+        "uni_id": 36,
+        "university_name": "มหาวิทยาลัยราชภัฏเชียงใหม่",
+        "sub_path": "https://course.mytcas.com/universities/144"
+    },
+    {
+        "uni_id": 37,
+        "university_name": "มหาวิทยาลัยราชภัฏชัยภูมิ",
+        "sub_path": "https://course.mytcas.com/universities/142"
+    },
+    {
+        "uni_id": 38,
+        "university_name": "มหาวิทยาลัยราชภัฏธนบุรี",
+        "sub_path": "https://course.mytcas.com/universities/146"
+    },
+    {
+        "uni_id": 39,
+        "university_name": "มหาวิทยาลัยราชภัฏนครราชสีมา",
+        "sub_path": "https://course.mytcas.com/universities/148"
+    },
+    {
+        "uni_id": 40,
+        "university_name": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+        "sub_path": "https://course.mytcas.com/universities/174"
+    },
+    {
+        "uni_id": 41,
+        "university_name": "มหาวิทยาลัยราชภัฏเพชรบุรี",
+        "sub_path": "https://course.mytcas.com/universities/179"
+    },
+    {
+        "uni_id": 42,
+        "university_name": "มหาวิทยาลัยราชภัฏพิบูลสงคราม",
+        "sub_path": "https://course.mytcas.com/universities/152"
+    },
+    {
+        "uni_id": 43,
+        "university_name": "มหาวิทยาลัยราชภัฏพระนคร",
+        "sub_path": "https://course.mytcas.com/universities/150"
+    },
+    {
+        "uni_id": 44,
+        "university_name": "มหาวิทยาลัยราชภัฏร้อยเอ็ด",
+        "sub_path": "https://course.mytcas.com/universities/158"
+    },
+    {
+        "uni_id": 45,
+        "university_name": "มหาวิทยาลัยราชภัฏวไลยอลงกรณ์ ในพระบรมราชูปถัมภ์",
+        "sub_path": "https://course.mytcas.com/universities/153"
+    },
+    {
+        "uni_id": 46,
+        "university_name": "มหาวิทยาลัยราชภัฏสงขลา",
+        "sub_path": "https://course.mytcas.com/universities/164"
+    },
+    {
+        "uni_id": 47,
+        "university_name": "มหาวิทยาลัยราชภัฏสวนสุนันทา",
+        "sub_path": "https://course.mytcas.com/universities/166"
+    },
+    {
+        "uni_id": 48,
+        "university_name": "มหาวิทยาลัยราชภัฏอุบลราชธานี",
+        "sub_path": "https://course.mytcas.com/universities/171"
+    },
+    {
+        "uni_id": 49,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ",
+        "sub_path": "https://course.mytcas.com/universities/192"
+    },
+    {
+        "uni_id": 50,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก",
+        "sub_path": "https://course.mytcas.com/universities/193"
+    },
+    {
+        "uni_id": 51,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี",
+        "sub_path": "https://course.mytcas.com/universities/191"
+    },
+    {
+        "uni_id": 52,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร",
+        "sub_path": "https://course.mytcas.com/universities/194"
+    },
+    {
+        "uni_id": 53,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์",
+        "sub_path": "https://course.mytcas.com/universities/195"
+    },
+    {
+        "uni_id": 54,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา",
+        "sub_path": "https://course.mytcas.com/universities/196"
+    },
+    {
+        "uni_id": 55,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย",
+        "sub_path": "https://course.mytcas.com/universities/197"
+    },
+    {
+        "uni_id": 56,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน",
+        "sub_path": "https://course.mytcas.com/universities/199"
+    },
+    {
+        "uni_id": 57,
+        "university_name": "มหาวิทยาลัยเกษมบัณฑิต",
+        "sub_path": "https://course.mytcas.com/universities/180"
+    },
+    {
+        "uni_id": 58,
+        "university_name": "มหาวิทยาลัยเซาธ์อีสท์บางกอก",
+        "sub_path": "https://course.mytcas.com/universities/923"
+    },
+    {
+        "uni_id": 59,
+        "university_name": "มหาวิทยาลัยเทคโนโลยีมหานคร",
+        "sub_path": "https://course.mytcas.com/universities/061"
+    },
+    {
+        "uni_id": 60,
+        "university_name": "มหาวิทยาลัยธุรกิจบัณฑิตย์",
+        "sub_path": "https://course.mytcas.com/universities/103"
+    },
+    {
+        "uni_id": 61,
+        "university_name": "มหาวิทยาลัยเนชั่น",
+        "sub_path": "https://course.mytcas.com/universities/905"
+    },
+    {
+        "uni_id": 62,
+        "university_name": "มหาวิทยาลัยนานาชาติเอเชีย-แปซิฟิก",
+        "sub_path": "https://course.mytcas.com/universities/129"
+    },
+    {
+        "uni_id": 63,
+        "university_name": "มหาวิทยาลัยปทุมธานี",
+        "sub_path": "https://course.mytcas.com/universities/911"
+    },
+    {
+        "uni_id": 64,
+        "university_name": "มหาวิทยาลัยพายัพ",
+        "sub_path": "https://course.mytcas.com/universities/912"
+    },
+    {
+        "uni_id": 65,
+        "university_name": "มหาวิทยาลัยราชธานี",
+        "sub_path": "https://course.mytcas.com/universities/910"
+    },
+    {
+        "uni_id": 66,
+        "university_name": "มหาวิทยาลัยราชพฤกษ์",
+        "sub_path": "https://course.mytcas.com/universities/919"
+    },
+    {
+        "uni_id": 67,
+        "university_name": "มหาวิทยาลัยรังสิต",
+        "sub_path": "https://course.mytcas.com/universities/068"
+    },
+    {
+        "uni_id": 68,
+        "university_name": "มหาวิทยาลัยวงษ์ชวลิตกุล",
+        "sub_path": "https://course.mytcas.com/universities/922"
+    },
+    {
+        "uni_id": 69,
+        "university_name": "มหาวิทยาลัยเวสเทิร์น",
+        "sub_path": "https://course.mytcas.com/universities/102"
+    },
+    {
+        "uni_id": 70,
+        "university_name": "มหาวิทยาลัยศรีปทุม",
+        "sub_path": "https://course.mytcas.com/universities/054"
+    },
+    {
+        "uni_id": 71,
+        "university_name": "มหาวิทยาลัยสยาม",
+        "sub_path": "https://course.mytcas.com/universities/181"
+    },
+    {
+        "uni_id": 72,
+        "university_name": "มหาวิทยาลัยหาดใหญ่",
+        "sub_path": "https://course.mytcas.com/universities/130"
+    },
+    {
+        "uni_id": 73,
+        "university_name": "มหาวิทยาลัยหอการค้าไทย",
+        "sub_path": "https://course.mytcas.com/universities/056"
+    },
+    {
+        "uni_id": 74,
+        "university_name": "มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ",
+        "sub_path": "https://course.mytcas.com/universities/073"
+    },
+    {
+        "uni_id": 75,
+        "university_name": "มหาวิทยาลัยอีสเทิร์นเอเชีย",
+        "sub_path": "https://course.mytcas.com/universities/112"
+    },
+    {
+        "uni_id": 76,
+        "university_name": "มหาวิทยาลัยอัสสัมชัญ",
+        "sub_path": "https://course.mytcas.com/universities/921"
+    },
+    {
+        "uni_id": 77,
+        "university_name": "วิทยาลัยเซนต์หลุยส์",
+        "sub_path": "https://course.mytcas.com/universities/115"
+    },
+    {
+        "uni_id": 78,
+        "university_name": "วิทยาลัยดุสิตธานี",
+        "sub_path": "https://course.mytcas.com/universities/117"
+    },
+    {
+        "uni_id": 79,
+        "university_name": "วิทยาลัยนครราชสีมา",
+        "sub_path": "https://course.mytcas.com/universities/916"
+    },
+    {
+        "uni_id": 80,
+        "university_name": "วิทยาลัยนอร์ทเทิร์น",
+        "sub_path": "https://course.mytcas.com/universities/917"
+    },
+    {
+        "uni_id": 81,
+        "university_name": "วิทยาลัยสันตพล",
+        "sub_path": "https://course.mytcas.com/universities/110"
+    },
+    {
+        "uni_id": 82,
+        "university_name": "สถาบันการจัดการปัญญาภิวัฒน์",
+        "sub_path": "https://course.mytcas.com/universities/918"
+    },
+    {
+        "uni_id": 83,
+        "university_name": "สถาบันเทคโนโลยีแห่งสุวรรณภูมิ",
+        "sub_path": "https://course.mytcas.com/universities/914"
+    },
+    {
+        "uni_id": 84,
+        "university_name": "สถาบันวิทยาการประกอบการแห่งอโยธยา",
+        "sub_path": "https://course.mytcas.com/universities/920"
+    },
+    {
+        "uni_id": 85,
+        "university_name": "กลุ่มสถาบันแพทยศาสตร์แห่งประเทศไทย",
+        "sub_path": "https://course.mytcas.com/universities/031"
+    },
+    {
+        "uni_id": 86,
+        "university_name": "สถาบันพระบรมราชชนก",
+        "sub_path": "https://course.mytcas.com/universities/221"
+    }
+]
